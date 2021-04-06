@@ -1,0 +1,25 @@
+@charset "utf-8";
+/*css doc*/
+body{
+
+  background-color: blanchedalmond;
+}
+h1{
+   background-color: rgb(140, 15, 15);
+}
+h2{
+
+  color: rgb(55, 66, 171);
+}
+#année{
+
+  color: red;
+}
+img{
+
+  border-radius: 50%;
+}
+.rounded{
+
+  border-radius: 50%;
+}
